@@ -43,3 +43,6 @@ have to multiply one by the other for max resolution.
  IMG_5523.jpg is the weird one!
 
  Google "elixir image dimensions" found package, used that to get actual dimensions.
+
+ Will have to skip files with no metadata, TODO? also instagram pictures have more
+ pixels than the original....cryyyyy
