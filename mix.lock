@@ -1,1 +1,2 @@
-%{"exexif": {:hex, :exexif, "0.0.4", "8c91715dfdf3efecc9ba428a3557bcf98f1a1cf19c95975a39b2f47468f1bc05", [:mix], []}}
+%{"ex_image_info": {:hex, :ex_image_info, "0.2.0", "240360b1392a50ec87de64d746ec45aae64ac3bb1611a292b4bdd45343d491a5", [:mix], []},
+  "exexif": {:hex, :exexif, "0.0.4", "8c91715dfdf3efecc9ba428a3557bcf98f1a1cf19c95975a39b2f47468f1bc05", [:mix], []}}

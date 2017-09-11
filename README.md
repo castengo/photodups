@@ -40,3 +40,6 @@ have to multiply one by the other for max resolution.
  is cut off!
 
  Metadata doesnt match actual image dimensions... it matches original dimensions.
+ IMG_5523.jpg is the weird one!
+
+ Google "elixir image dimensions" found package, used that to get actual dimensions.

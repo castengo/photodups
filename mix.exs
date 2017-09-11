@@ -29,7 +29,8 @@ defmodule Photodups.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:exexif, "~> 0.0.4"}
+      {:exexif, "~> 0.0.4"},
+      {:ex_image_info, "~> 0.2.0"}
     ]
   end
 end

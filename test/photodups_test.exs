@@ -3,7 +3,7 @@ defmodule PhotodupsTest do
   doctest Photodups
 
   test "scans directory for duplicates" do
-    Photodups.scan("test/fixtures/album_2/")
+    assert ["test/fixtures/album_2/IMG_5510 (1).JPG", "test/fixtures/album_2/IMG_3900.JPG"] == Photodups.scan("test/fixtures/album_2/")
   end
 
   test "reads date created for image" do
